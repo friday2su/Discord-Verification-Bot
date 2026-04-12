@@ -2,6 +2,8 @@
 
 Verification bot with slash subcommands, captcha-based onboarding, local JSON storage, and component v2 UI for setup, config, stats, and panel messages.
 
+<img width="600" height="235" alt="image (1)" src="https://github.com/user-attachments/assets/ef5336cb-b7bb-4b58-a85e-2f020839e954" />
+
 Copyright (c) Cortex Realm  
 Server Url: https://discord.gg/EWr3GgP6fe
 
