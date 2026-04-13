@@ -5,7 +5,7 @@
 import { AttachmentBuilder } from 'discord.js';
 import { createCanvas } from '@napi-rs/canvas';
 
-const ALPHABET = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789';
+const ALPHABET = 'ABCDEFGHJKLMNPQRSTUVWXYZ123456789';
 
 function randomInt(max) {
   return Math.floor(Math.random() * max);
